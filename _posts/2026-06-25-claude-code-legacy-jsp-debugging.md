@@ -1,6 +1,6 @@
 ---
 title: Claude Code와 함께한 일주일 — 레거시 웹 프로젝트 디버깅 실전기
-date: 2026-06-26 10:00:00 +0900
+date: 2026-06-25 21:40:00 +0900
 categories: [AI 활용, Claude Agent]
 tags: [claude, agent, jsp, debugging, wsl2]
 ---
