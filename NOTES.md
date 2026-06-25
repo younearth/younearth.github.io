@@ -13,3 +13,9 @@
 
 - `categories: [AI 활용, Claude Agent]` — Claude 에이전트로 작업한 기록용 카테고리(상위: AI 활용, 하위: Claude Agent).
 - 그 외 일상/기타 글은 상황에 맞는 카테고리를 새로 정한다.
+
+## 3. 커밋 메시지 규칙
+
+- 커밋 메시지는 항상 영어로 작성하고, 같은 메시지에 한국어 번역도 함께 적는다.
+- 형식: `<영어 메시지>\n\n<한국어 번역>`
+  - 예: `Add post: Claude Code legacy JSP debugging week\n\n글 추가: Claude Code와 함께한 레거시 JSP 디버깅 한 주`
